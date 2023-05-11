@@ -64,6 +64,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "3.0.2"
+  dartunit:
+    dependency: "direct dev"
+    description:
+      name: dartunit
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.0.0+2"
   file:
     dependency: transitive
     description:
